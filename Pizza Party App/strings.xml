@@ -1,0 +1,12 @@
+<!--
+Chris Shaw
+Pizza Party Application
+CSD 230
+1/7/20
+-->
+
+<resources>
+    <string name="app_name">PizzaParty</string>
+    <!-- Added total_pizzas for output of total pizzas-->
+    <string name="total_pizzas">Total Pizzas:</string>
+</resources>
